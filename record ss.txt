@@ -1,0 +1,32 @@
+Not listing downloads cause they're probably ratted :D
+
+FakeGui Biscoito Clickers
+Wallpaper Engine Clicker (Biscoito)
+This Clicker was made to be able to bypass without using bypass methods.
+
+Follow these steps:
+
+1. Go into the wallpaper engine folder (by default this is the path: C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine
+
+2. Delete the wallpaper64.exe in the folder and replace it with the Clicker.
+
+That's it, there are several ways to start the cheat:
+
+1. Steam Library -> wallpaper engine -> right-click -> properties -> Launch options -> Launch Wallpaper engine 64-bit -> Then set it to start the wallpaper engine on PC startup. This will run the cheat when you turn on your PC.
+
+2. Go to the steam library-> wallpaper engine -> launch -> wallpaper engine 64-bit -> Will run the cheat.
+
+After starting wallpaper 64bit you can pop up the GUI with BACKSPACE + Y.
+
+OBS Studio Clicker (Biscoito)
+This Clicker was made to be able to bypass without using bypass methods.
+
+Follow these steps:
+
+1. Go into the OBS Studio folder (by default this is the path: C:\Program Files\obs-studio\bin\64bit)
+
+2. Delete the obs-ffmpeg-mux.exe in the folder and replace it with the Clicker.
+
+That's it, if you want to start your cheat just open OBS and start recording.
+
+While recording press Tab + Caps on your keyboard to pop up the GUI

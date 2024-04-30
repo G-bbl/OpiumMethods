@@ -1,0 +1,8 @@
+# Setting up
+1. Download your cheat and call it "**cscapi.dll**" and put it in this path: **"C:\Windows"**
+
+2.  Download ShellBags Anaylzer and delete those logs + delete the folder left at the desktop
+open cmd.exe and type: "fsutil usn deleteJournal /D C:" and restart your pc.
+
+# Launching
+Whenever you launch your PC explorer.exe will load the .dll which means you don't need to inject it using a injector or **regsvr32.exe**.

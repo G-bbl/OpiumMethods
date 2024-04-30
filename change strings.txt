@@ -1,0 +1,24 @@
+# Randomizing Cheat strings with protector & dps string changer
+
+```
+1. Download UPX protector
+
+2. Unpack the winrar archive and open a cmd as admin, CD into the upx.exe path.
+
+3. Drag your cheat into the same folder, and use this command to randomize strings:
+
+upx.exe --best cheat.exe
+
+File size will be reduced a bit and strings will change.
+
+4. Download the "Setup.exe" (Probably ratted too!) DPS string changer.
+
+5. After opening it drag the cheat into the command prompt it opens and dps string should be changed
+
+```
+
+[UPX Protector](https://github.com/upx/upx/releases/download/v4.1.0/upx-4.1.0-win64.zip)
+ 
+## ⚠️ After all this you wont be able to rename the file, so make sure you do all this after you disguised the cheat
+
+https://loves-ferrets.lol/pz4491mw.mp4

@@ -1,0 +1,33 @@
+# Modifying file properties / hiding cheats
+
+To get any file's Icon you have to download [Icon Viewer](https://www.botproductions.com/iconview/iconview.html)
+
+And to change file informations and literally anything in a file download [Resource Hacker](http://www.angusj.com/resourcehacker/)
+
+See the videos down below, how to disguise a cheat as a legit file.
+
+## How to get icon of a file.
+https://loves-ferrets.lol/erqg8ycb.mp4
+
+## How to Replace Icons
+https://loves-ferrets.lol/66uytl3h.mp4
+
+## How to change Description
+https://loves-ferrets.lol/69iu4cdr.mp4
+
+
+## How to remove Elevation Request (Administrator stuff) ⚠️ Do not use on cheats that arent fully external
+https://loves-ferrets.lol/1amdipcc.mp4
+
+**Stuff to paste into resource hacker to remove elevation:**
+
+```<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>```

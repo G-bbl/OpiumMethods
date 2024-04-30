@@ -1,0 +1,5 @@
+# Before download this tool
+https://www.sordum.org/9480/defender-control-v2-1/ 
+
+# Disable ActivitiesCache
+- Press Windows + I > Privacy > Activity > Activity History > untick "Store on my device" , delete the entire history at the bottom

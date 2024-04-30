@@ -1,0 +1,11 @@
+# Changing size of files
+
+## You can only INCREASE but not DECREASE the file size. Decreasing is only possible with <#1193165426344067152> but its not customizable.
+
+*Requires: Sublime text editor ( download from <#1193140920871297055> )*
+
+1. Open up sublime text editor and drag the file in that you want to increase size of.
+
+2. Scroll to the bottom and start adding `0` to the code
+
+3. Add as much as you want, Press CTRL + S to save and see the current file size.
